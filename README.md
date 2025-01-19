@@ -1,6 +1,16 @@
-# 大气层1.7.1最高支持18.1.0系统
+2024.10.7，Switch系统更新19.0.0
 
-Firmware for the Nintendo Switch
+2024.10.29，Switch系统更新19.0.1
+
+2025.1.7，Switch系统更新19.0.1rebootless（无重启的系统更新，更新内容不涉Switch系统启动模块）
+
+大气层1.8.0最高支持NX-19.0.1系统。先更新SD卡上的大气层文件，再解压缩官方离线升级固件文件夹，把文件夹复制到SD卡，进系统，找到相册Daybreak刷离线固件升级包
+
+离线升级固件下载地址
+
+https://github.com/rumla3434/NX_Firmware/releases
+
+https://codeberg.org/rumla34/NX-Firmware/releases
 
 # Utility
 Firmware database for a discord bot
