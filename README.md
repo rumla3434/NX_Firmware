@@ -11,8 +11,6 @@
 
 （5）只玩虚拟系统的玩家完全不用理会20.0.0的系统升级，暂时乖乖呆在19.0.1玩破解游戏，虚拟系统有90dns和隐藏序号保护，离线升级也不会影响熔断，所以可以开着wifi畅快看wiliwili刷B站或tinfoil使用黑商店，等大气层三件套更新支持20.0.0以后再daybreak离线更新虚拟系统20.0.0。
 
-<img src="[https://github.com/rumla3434/NX_Firmware/Switch20.0.0.jpg?raw=true](https://github.com/rumla3434/NX_Firmware/blob/main/Switch20.0.0.jpg?raw=true)" >
-
 2024.10.7，Switch系统更新19.0.0
 
 2024.10.29，Switch系统更新19.0.1
@@ -88,23 +86,3 @@ emummc肯定有，不管是隐藏分区的虚拟系统还是文件格式的虚�
 （2）联网更新Switch系统
 
 联网更新只限正版系统，更新完大气层1.8.0以后，开机Hekate进真实（正版）系统，连上wifi就可以升级，如果更新速度慢，表示要买游戏加速器，国行正版系统不需要。
-
-# Utility
-Firmware database for a discord bot
-
-![poyo]([https://github.com/THZoria/NX_Firmware/assets/50277488/337489f9-b2c8-416a-8355-31820ca2a7a1](https://github.com/rumla3434/NX_Firmware/blob/main/Switch20.0.0.jpg?raw=true))
-
-# More information
-
-More information will be detailed in the [wiki](https://github.com/THZoria/NX_Firmware/wiki), both the new versions that will be released, as well as their technical details.
-
-# To find us
-
-[![Discord](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA
-)](https://discord.gg/6zRbG3FsJH)
-
-# Add our bot Poyo
-
-Our bot, currently developed in Discord JS V13 (click to be redirected to the link to add the bot)
-
-[![poyo](https://user-images.githubusercontent.com/50277488/156135958-a87fadb8-841e-4eec-bfb8-32340417fa17.png)](https://discord.com/oauth2/authorize?client_id=854048178907512884&scope=bot&code=GhN3fCiOkdvULwgGFbPp134oJo1FW5&guild_id=55540872135914291520applications.commands)
