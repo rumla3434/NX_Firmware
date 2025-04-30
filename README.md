@@ -92,7 +92,7 @@ emummc肯定有，不管是隐藏分区的虚拟系统还是文件格式的虚�
 # Utility
 Firmware database for a discord bot
 
-![poyo](https://github.com/THZoria/NX_Firmware/assets/50277488/337489f9-b2c8-416a-8355-31820ca2a7a1)
+![poyo]([https://github.com/THZoria/NX_Firmware/assets/50277488/337489f9-b2c8-416a-8355-31820ca2a7a1](https://github.com/rumla3434/NX_Firmware/blob/main/Switch20.0.0.jpg?raw=true))
 
 # More information
 
