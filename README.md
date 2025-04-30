@@ -11,7 +11,7 @@
 
 （5）只玩虚拟系统的玩家完全不用理会20.0.0的系统升级，暂时乖乖呆在19.0.1玩破解游戏，虚拟系统有90dns和隐藏序号保护，离线升级也不会影响熔断，所以可以开着wifi畅快看wiliwili刷B站或tinfoil使用黑商店，等大气层三件套更新支持20.0.0以后再daybreak离线更新虚拟系统20.0.0。
 
-<img src="https://github.com/rumla3434/NX_Firmware/Switch20.0.0.jpg?raw=true" >
+<img src="[https://github.com/rumla3434/NX_Firmware/Switch20.0.0.jpg?raw=true](https://github.com/rumla3434/NX_Firmware/blob/main/Switch20.0.0.jpg?raw=true)" >
 
 2024.10.7，Switch系统更新19.0.0
 
